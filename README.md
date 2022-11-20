@@ -15,3 +15,10 @@
 
     1. The default port used for this api is 8080. Make sure it's not been used or change it in index.js
     2. If you don't know how to consume it for testing I suggest postman.
+    
+## API DOCUMENTATION
+
+#### Method: GET
+#### Endpoint: /games
+#### Params: None
+#### Returns: List with all games in database.
